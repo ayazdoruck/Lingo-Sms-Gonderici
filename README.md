@@ -12,3 +12,6 @@ cd Lingo-Sms-Sender
 pip3 install -r requirements.txt
 python3 lingo.py
 ```
+
+<h2>İletişim</h2>
+<a href="https://instagram.com/ayazdoruck">Instagram</a>
