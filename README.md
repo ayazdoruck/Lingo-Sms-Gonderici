@@ -15,7 +15,8 @@ python3 lingo.py
 
 <h2>İletişim</h2>
 <a href="https://instagram.com/ayazdoruck">Instagram</a>
+<br>
 <a href="https://wa.me/+905550098387">WhatsApp</a>
-
-
+<br>
+<br>
 İyi eğlenceler...
