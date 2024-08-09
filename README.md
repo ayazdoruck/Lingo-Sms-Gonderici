@@ -8,7 +8,7 @@
 
 ```console
 git clone https://github.com/ayazdoruck/Lingo-Sms-Gonderici.git
-cd Lingo-Sms-Sender
+cd Lingo-Sms-Gonderici
 pip3 install -r requirements.txt
 python3 lingo.py
 ```
