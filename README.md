@@ -7,7 +7,7 @@
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/ayazdoruck/Lingo-Sms-Sender.git
+git clone https://github.com/ayazdoruck/Lingo-Sms-Gonderici.git
 cd Lingo-Sms-Sender
 pip3 install -r requirements.txt
 python3 lingo.py
