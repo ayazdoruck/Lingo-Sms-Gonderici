@@ -16,5 +16,4 @@ python3 lingo.py
 <h2>İletişim</h2>
 <a href="https://instagram.com/ayazdoruck">Instagram</a>
 <br>
-<br>
-İyi eğlenceler...
+
